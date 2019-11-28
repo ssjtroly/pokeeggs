@@ -22,6 +22,10 @@ var pokedex = [
         "egg": [
             1,
             64
+        ],
+        "gen8egg": [
+            1,
+            64
         ]
     },
     {
@@ -45,6 +49,10 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            1,
+            64
+        ],
+        "gen8egg": [
             1,
             64
         ]
@@ -72,6 +80,10 @@ var pokedex = [
         "egg": [
             1,
             64
+        ],
+        "gen8egg": [
+            1,
+            64
         ]
     },
     {
@@ -96,6 +108,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -118,6 +134,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -145,6 +165,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -167,6 +191,10 @@ var pokedex = [
             "Speed": 43
         },
         "egg": [
+            1,
+            2
+        ],
+        "gen8egg": [
             1,
             2
         ]
@@ -193,6 +221,10 @@ var pokedex = [
         "egg": [
             1,
             2
+        ],
+        "gen8egg": [
+            1,
+            2
         ]
     },
     {
@@ -215,6 +247,10 @@ var pokedex = [
             "Speed": 78
         },
         "egg": [
+            1,
+            2
+        ],
+        "gen8egg": [
             1,
             2
         ]
@@ -240,6 +276,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -262,6 +301,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -287,6 +329,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -310,6 +355,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -335,6 +383,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -358,6 +409,9 @@ var pokedex = [
             "Speed": 75
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -383,6 +437,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -406,6 +463,9 @@ var pokedex = [
             "Speed": 71
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -431,6 +491,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -454,6 +517,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -476,6 +542,9 @@ var pokedex = [
             "Speed": 97
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -501,6 +570,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -525,6 +597,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -547,6 +622,10 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            16,
+            8192
+        ],
+        "gen8egg": [
             16,
             8192
         ]
@@ -573,6 +652,10 @@ var pokedex = [
         "egg": [
             16,
             8192
+        ],
+        "gen8egg": [
+            16,
+            8192
         ]
     },
     {
@@ -595,6 +678,10 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            16,
+            32
+        ],
+        "gen8egg": [
             16,
             32
         ]
@@ -621,6 +708,10 @@ var pokedex = [
         "egg": [
             16,
             32
+        ],
+        "gen8egg": [
+            16,
+            32
         ]
     },
     {
@@ -644,6 +735,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -666,6 +760,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -691,6 +788,10 @@ var pokedex = [
         "egg": [
             1,
             16
+        ],
+        "gen8egg": [
+            1,
+            16
         ]
     },
     {
@@ -713,6 +814,9 @@ var pokedex = [
             "Speed": 56
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -738,6 +842,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -762,6 +869,10 @@ var pokedex = [
         "egg": [
             1,
             16
+        ],
+        "gen8egg": [
+            1,
+            16
         ]
     },
     {
@@ -784,6 +895,10 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            1,
+            16
+        ],
+        "gen8egg": [
             1,
             16
         ]
@@ -811,6 +926,10 @@ var pokedex = [
         "egg": [
             1,
             16
+        ],
+        "gen8egg": [
+            1,
+            16
         ]
     },
     {
@@ -833,6 +952,9 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -857,6 +979,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -880,6 +1005,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -902,6 +1030,9 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -927,6 +1058,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -950,6 +1084,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -975,6 +1112,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -998,6 +1138,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -1023,6 +1166,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -1046,6 +1192,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -1071,6 +1220,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -1094,6 +1246,10 @@ var pokedex = [
             "Speed": 25
         },
         "egg": [
+            4,
+            64
+        ],
+        "gen8egg": [
             4,
             64
         ]
@@ -1121,6 +1277,10 @@ var pokedex = [
         "egg": [
             4,
             64
+        ],
+        "gen8egg": [
+            4,
+            64
         ]
     },
     {
@@ -1144,6 +1304,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -1169,6 +1332,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -1191,6 +1357,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -1215,6 +1384,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -1237,6 +1409,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -1261,6 +1436,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -1283,6 +1461,10 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -1309,6 +1491,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -1331,6 +1517,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -1355,6 +1544,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -1377,6 +1569,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -1401,6 +1596,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -1424,6 +1622,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -1446,6 +1647,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            2
+        ],
+        "gen8egg": [
             2
         ]
     },
@@ -1471,6 +1675,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -1493,6 +1700,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -1517,6 +1727,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -1539,6 +1752,9 @@ var pokedex = [
             "Speed": 120
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -1563,6 +1779,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -1586,6 +1805,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -1608,6 +1830,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -1633,6 +1858,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -1656,6 +1884,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -1681,6 +1912,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -1704,6 +1938,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            256
+        ],
+        "gen8egg": [
             256
         ]
     },
@@ -1729,6 +1966,9 @@ var pokedex = [
         },
         "egg": [
             256
+        ],
+        "gen8egg": [
+            256
         ]
     },
     {
@@ -1752,6 +1992,9 @@ var pokedex = [
             "Speed": 20
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -1777,6 +2020,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -1801,6 +2047,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -1823,6 +2072,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -1847,6 +2099,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -1870,6 +2125,10 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            1,
+            2
+        ],
+        "gen8egg": [
             1,
             2
         ]
@@ -1897,6 +2156,10 @@ var pokedex = [
         "egg": [
             1,
             2
+        ],
+        "gen8egg": [
+            1,
+            2
         ]
     },
     {
@@ -1921,6 +2184,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -1944,6 +2210,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -1970,6 +2239,10 @@ var pokedex = [
         "egg": [
             8,
             16
+        ],
+        "gen8egg": [
+            8,
+            16
         ]
     },
     {
@@ -1993,6 +2266,9 @@ var pokedex = [
             "Speed": 75
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -2018,6 +2294,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -2040,6 +2319,10 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -2067,6 +2350,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -2089,6 +2376,9 @@ var pokedex = [
             "Speed": 25
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -2113,6 +2403,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -2135,6 +2428,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            256
+        ],
+        "gen8egg": [
             256
         ]
     },
@@ -2160,6 +2456,9 @@ var pokedex = [
         },
         "egg": [
             256
+        ],
+        "gen8egg": [
+            256
         ]
     },
     {
@@ -2183,6 +2482,9 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -2208,6 +2510,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -2231,6 +2536,9 @@ var pokedex = [
             "Speed": 110
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -2256,6 +2564,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -2278,6 +2589,9 @@ var pokedex = [
             "Speed": 42
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -2302,6 +2616,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -2324,6 +2641,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            256
+        ],
+        "gen8egg": [
             256
         ]
     },
@@ -2348,6 +2668,9 @@ var pokedex = [
         },
         "egg": [
             256
+        ],
+        "gen8egg": [
+            256
         ]
     },
     {
@@ -2371,6 +2694,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -2393,6 +2719,9 @@ var pokedex = [
             "Speed": 150
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -2418,6 +2747,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -2442,6 +2774,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -2464,6 +2799,9 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1
         ]
     },
@@ -2488,6 +2826,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -2510,6 +2851,9 @@ var pokedex = [
             "Speed": 87
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -2534,6 +2878,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -2556,6 +2903,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1
         ]
     },
@@ -2580,6 +2930,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -2602,6 +2955,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -2626,6 +2982,10 @@ var pokedex = [
             "Speed": 25
         },
         "egg": [
+            1,
+            16
+        ],
+        "gen8egg": [
             1,
             16
         ]
@@ -2653,6 +3013,10 @@ var pokedex = [
         "egg": [
             1,
             16
+        ],
+        "gen8egg": [
+            1,
+            16
         ]
     },
     {
@@ -2675,6 +3039,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -2699,6 +3066,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -2722,6 +3092,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -2744,6 +3117,10 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            2,
+            8192
+        ],
+        "gen8egg": [
             2,
             8192
         ]
@@ -2770,6 +3147,10 @@ var pokedex = [
         "egg": [
             2,
             8192
+        ],
+        "gen8egg": [
+            2,
+            8192
         ]
     },
     {
@@ -2792,6 +3173,9 @@ var pokedex = [
             "Speed": 63
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -2816,6 +3200,9 @@ var pokedex = [
         },
         "egg": [
             2048
+        ],
+        "gen8egg": [
+            2048
         ]
     },
     {
@@ -2838,6 +3225,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            256
+        ],
+        "gen8egg": [
             256
         ]
     },
@@ -2863,6 +3253,9 @@ var pokedex = [
         },
         "egg": [
             256
+        ],
+        "gen8egg": [
+            256
         ]
     },
     {
@@ -2886,6 +3279,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -2911,6 +3307,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -2935,6 +3334,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -2957,6 +3359,9 @@ var pokedex = [
             "Speed": 105
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -2981,6 +3386,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -3003,6 +3411,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -3027,6 +3438,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -3049,6 +3463,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            2048,
+            8192
+        ],
+        "gen8egg": [
             2048,
             8192
         ]
@@ -3076,6 +3494,10 @@ var pokedex = [
         "egg": [
             2048,
             8192
+        ],
+        "gen8egg": [
+            2048,
+            8192
         ]
     },
     {
@@ -3101,6 +3523,10 @@ var pokedex = [
         "egg": [
             1,
             2
+        ],
+        "gen8egg": [
+            1,
+            2
         ]
     },
     {
@@ -3123,6 +3549,9 @@ var pokedex = [
             "Speed": 48
         },
         "egg": [
+            4096
+        ],
+        "gen8egg": [
             4096
         ]
     },
@@ -3147,6 +3576,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -3169,6 +3601,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -3193,6 +3628,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -3215,6 +3653,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -3239,6 +3680,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -3262,6 +3706,10 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            2,
+            256
+        ],
+        "gen8egg": [
             2,
             256
         ]
@@ -3289,6 +3737,10 @@ var pokedex = [
         "egg": [
             2,
             256
+        ],
+        "gen8egg": [
+            2,
+            256
         ]
     },
     {
@@ -3312,6 +3764,10 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            2,
+            256
+        ],
+        "gen8egg": [
             2,
             256
         ]
@@ -3339,6 +3795,10 @@ var pokedex = [
         "egg": [
             2,
             256
+        ],
+        "gen8egg": [
+            2,
+            256
         ]
     },
     {
@@ -3363,6 +3823,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -3385,6 +3848,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1
         ]
     },
@@ -3410,6 +3876,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -3433,6 +3902,9 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -3458,6 +3930,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -3482,6 +3957,10 @@ var pokedex = [
         "egg": [
             2,
             8192
+        ],
+        "gen8egg": [
+            2,
+            8192
         ]
     },
     {
@@ -3504,6 +3983,10 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            2,
+            8192
+        ],
+        "gen8egg": [
             2,
             8192
         ]
@@ -3531,6 +4014,10 @@ var pokedex = [
         "egg": [
             2,
             8192
+        ],
+        "gen8egg": [
+            2,
+            8192
         ]
     },
     {
@@ -3553,6 +4040,9 @@ var pokedex = [
             "Speed": 130
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -3577,6 +4067,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -3599,6 +4092,10 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            1,
+            64
+        ],
+        "gen8egg": [
             1,
             64
         ]
@@ -3625,6 +4122,10 @@ var pokedex = [
         "egg": [
             1,
             64
+        ],
+        "gen8egg": [
+            1,
+            64
         ]
     },
     {
@@ -3647,6 +4148,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            1,
+            64
+        ],
+        "gen8egg": [
             1,
             64
         ]
@@ -3672,6 +4177,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -3694,6 +4202,9 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -3718,6 +4229,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -3740,6 +4254,10 @@ var pokedex = [
             "Speed": 43
         },
         "egg": [
+            1,
+            2
+        ],
+        "gen8egg": [
             1,
             2
         ]
@@ -3766,6 +4284,10 @@ var pokedex = [
         "egg": [
             1,
             2
+        ],
+        "gen8egg": [
+            1,
+            2
         ]
     },
     {
@@ -3788,6 +4310,10 @@ var pokedex = [
             "Speed": 78
         },
         "egg": [
+            1,
+            2
+        ],
+        "gen8egg": [
             1,
             2
         ]
@@ -3813,6 +4339,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -3835,6 +4364,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -3860,6 +4392,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -3883,6 +4418,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -3908,6 +4446,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -3931,6 +4472,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -3956,6 +4500,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -3979,6 +4526,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -4004,6 +4554,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -4027,6 +4580,9 @@ var pokedex = [
             "Speed": 67
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -4052,6 +4608,9 @@ var pokedex = [
         },
         "egg": [
             2048
+        ],
+        "gen8egg": [
+            2048
         ]
     },
     {
@@ -4075,6 +4634,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -4097,6 +4659,9 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -4122,6 +4687,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -4144,6 +4712,9 @@ var pokedex = [
             "Speed": 20
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -4170,6 +4741,10 @@ var pokedex = [
         "egg": [
             8,
             32
+        ],
+        "gen8egg": [
+            8,
+            32
         ]
     },
     {
@@ -4193,6 +4768,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -4218,6 +4796,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -4240,6 +4821,10 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            1,
+            16
+        ],
+        "gen8egg": [
             1,
             16
         ]
@@ -4266,6 +4851,10 @@ var pokedex = [
         "egg": [
             1,
             16
+        ],
+        "gen8egg": [
+            1,
+            16
         ]
     },
     {
@@ -4288,6 +4877,10 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            1,
+            16
+        ],
+        "gen8egg": [
             1,
             16
         ]
@@ -4313,6 +4906,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -4336,6 +4932,10 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            2,
+            32
+        ],
+        "gen8egg": [
             2,
             32
         ]
@@ -4363,6 +4963,10 @@ var pokedex = [
         "egg": [
             2,
             32
+        ],
+        "gen8egg": [
+            2,
+            32
         ]
     },
     {
@@ -4385,6 +4989,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -4409,6 +5016,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -4432,6 +5042,10 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            32,
+            64
+        ],
+        "gen8egg": [
             32,
             64
         ]
@@ -4459,6 +5073,10 @@ var pokedex = [
         "egg": [
             32,
             64
+        ],
+        "gen8egg": [
+            32,
+            64
         ]
     },
     {
@@ -4484,6 +5102,10 @@ var pokedex = [
         "egg": [
             32,
             64
+        ],
+        "gen8egg": [
+            32,
+            64
         ]
     },
     {
@@ -4506,6 +5128,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -4530,6 +5155,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -4552,6 +5180,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -4577,6 +5208,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -4600,6 +5234,10 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -4627,6 +5265,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -4649,6 +5291,9 @@ var pokedex = [
             "Speed": 110
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -4673,6 +5318,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -4696,6 +5344,9 @@ var pokedex = [
             "Speed": 91
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -4722,6 +5373,10 @@ var pokedex = [
         "egg": [
             1,
             2
+        ],
+        "gen8egg": [
+            1,
+            2
         ]
     },
     {
@@ -4744,6 +5399,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -4768,6 +5426,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -4790,6 +5451,9 @@ var pokedex = [
             "Speed": 33
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -4815,6 +5479,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -4837,6 +5504,9 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -4862,6 +5532,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -4884,6 +5557,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -4909,6 +5585,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -4933,6 +5612,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -4955,6 +5637,10 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            16,
+            32
+        ],
+        "gen8egg": [
             16,
             32
         ]
@@ -4981,6 +5667,10 @@ var pokedex = [
         "egg": [
             16,
             32
+        ],
+        "gen8egg": [
+            16,
+            32
         ]
     },
     {
@@ -5004,6 +5694,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -5029,6 +5722,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -5052,6 +5748,9 @@ var pokedex = [
             "Speed": 5
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -5077,6 +5776,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -5101,6 +5803,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -5123,6 +5828,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -5147,6 +5855,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -5169,6 +5880,9 @@ var pokedex = [
             "Speed": 20
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -5194,6 +5908,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -5218,6 +5935,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -5241,6 +5961,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -5267,6 +5990,10 @@ var pokedex = [
         "egg": [
             2,
             256
+        ],
+        "gen8egg": [
+            2,
+            256
         ]
     },
     {
@@ -5291,6 +6018,10 @@ var pokedex = [
         "egg": [
             2,
             2048
+        ],
+        "gen8egg": [
+            2,
+            2048
         ]
     },
     {
@@ -5313,6 +6044,10 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            2,
+            2048
+        ],
+        "gen8egg": [
             2,
             2048
         ]
@@ -5340,6 +6075,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -5363,6 +6102,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            2
+        ],
+        "gen8egg": [
             2
         ]
     },
@@ -5388,6 +6130,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -5412,6 +6157,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -5435,6 +6183,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -5461,6 +6212,10 @@ var pokedex = [
         "egg": [
             2,
             8192
+        ],
+        "gen8egg": [
+            2,
+            8192
         ]
     },
     {
@@ -5483,6 +6238,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -5507,6 +6265,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -5529,6 +6290,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -5553,6 +6317,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -5575,6 +6342,9 @@ var pokedex = [
             "Speed": 75
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -5599,6 +6369,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -5621,6 +6394,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -5646,6 +6422,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -5668,6 +6447,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -5692,6 +6474,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -5714,6 +6499,9 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -5738,6 +6526,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -5760,6 +6551,9 @@ var pokedex = [
             "Speed": 115
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -5784,6 +6578,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -5806,6 +6603,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -5831,6 +6631,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -5854,6 +6657,9 @@ var pokedex = [
             "Speed": 51
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1
         ]
     },
@@ -5879,6 +6685,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -5902,6 +6711,9 @@ var pokedex = [
             "Speed": 110
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -5927,6 +6739,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -5951,6 +6766,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -5973,6 +6791,10 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -5999,6 +6821,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -6021,6 +6847,10 @@ var pokedex = [
             "Speed": 120
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -6046,6 +6876,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -6069,6 +6902,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -6094,6 +6930,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -6116,6 +6955,10 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            1,
+            2
+        ],
+        "gen8egg": [
             1,
             2
         ]
@@ -6143,6 +6986,10 @@ var pokedex = [
         "egg": [
             1,
             2
+        ],
+        "gen8egg": [
+            1,
+            2
         ]
     },
     {
@@ -6168,6 +7015,10 @@ var pokedex = [
         "egg": [
             1,
             2
+        ],
+        "gen8egg": [
+            1,
+            2
         ]
     },
     {
@@ -6190,6 +7041,9 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -6214,6 +7068,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -6236,6 +7093,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -6260,6 +7120,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -6283,6 +7146,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -6305,6 +7171,9 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -6330,6 +7199,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -6352,6 +7224,9 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -6377,6 +7252,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -6400,6 +7278,10 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            2,
+            64
+        ],
+        "gen8egg": [
             2,
             64
         ]
@@ -6427,6 +7309,10 @@ var pokedex = [
         "egg": [
             2,
             64
+        ],
+        "gen8egg": [
+            2,
+            64
         ]
     },
     {
@@ -6452,6 +7338,10 @@ var pokedex = [
         "egg": [
             2,
             64
+        ],
+        "gen8egg": [
+            2,
+            64
         ]
     },
     {
@@ -6474,6 +7364,10 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            16,
+            64
+        ],
+        "gen8egg": [
             16,
             64
         ]
@@ -6501,6 +7395,10 @@ var pokedex = [
         "egg": [
             16,
             64
+        ],
+        "gen8egg": [
+            16,
+            64
         ]
     },
     {
@@ -6524,6 +7422,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            16,
+            64
+        ],
+        "gen8egg": [
             16,
             64
         ]
@@ -6550,6 +7452,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -6574,6 +7479,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -6597,6 +7505,10 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            2,
+            8
+        ],
+        "gen8egg": [
             2,
             8
         ]
@@ -6624,6 +7536,10 @@ var pokedex = [
         "egg": [
             2,
             8
+        ],
+        "gen8egg": [
+            2,
+            8
         ]
     },
     {
@@ -6647,7 +7563,10 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
-            null,
+            1024
+        ],
+        "gen8egg": [
+            128,
             1024
         ]
     },
@@ -6672,7 +7591,10 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
-            null,
+            1024
+        ],
+        "gen8egg": [
+            128,
             1024
         ]
     },
@@ -6697,7 +7619,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
-            null,
+            1024
+        ],
+        "gen8egg": [
+            128,
             1024
         ]
     },
@@ -6722,6 +7647,10 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            2,
+            4
+        ],
+        "gen8egg": [
             2,
             4
         ]
@@ -6749,6 +7678,10 @@ var pokedex = [
         "egg": [
             2,
             4
+        ],
+        "gen8egg": [
+            2,
+            4
         ]
     },
     {
@@ -6771,6 +7704,10 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            32,
+            64
+        ],
+        "gen8egg": [
             32,
             64
         ]
@@ -6798,6 +7735,10 @@ var pokedex = [
         "egg": [
             32,
             64
+        ],
+        "gen8egg": [
+            32,
+            64
         ]
     },
     {
@@ -6820,6 +7761,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -6844,6 +7788,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -6866,6 +7813,9 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -6891,6 +7841,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -6914,6 +7867,9 @@ var pokedex = [
             "Speed": 160
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -6939,6 +7895,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -6961,6 +7920,10 @@ var pokedex = [
             "Speed": 28
         },
         "egg": [
+            1,
+            16
+        ],
+        "gen8egg": [
             1,
             16
         ]
@@ -6987,6 +7950,10 @@ var pokedex = [
         "egg": [
             1,
             16
+        ],
+        "gen8egg": [
+            1,
+            16
         ]
     },
     {
@@ -7009,6 +7976,10 @@ var pokedex = [
             "Speed": 68
         },
         "egg": [
+            1,
+            16
+        ],
+        "gen8egg": [
             1,
             16
         ]
@@ -7034,6 +8005,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -7056,6 +8030,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -7081,6 +8058,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -7104,6 +8084,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -7126,6 +8109,10 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            16,
+            32
+        ],
+        "gen8egg": [
             16,
             32
         ]
@@ -7152,6 +8139,10 @@ var pokedex = [
         "egg": [
             16,
             32
+        ],
+        "gen8egg": [
+            16,
+            32
         ]
     },
     {
@@ -7175,6 +8166,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -7201,6 +8195,10 @@ var pokedex = [
         "egg": [
             16,
             32
+        ],
+        "gen8egg": [
+            16,
+            32
         ]
     },
     {
@@ -7224,6 +8222,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1
         ]
     },
@@ -7249,6 +8250,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -7272,6 +8276,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1
         ]
     },
@@ -7297,6 +8304,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -7321,6 +8331,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -7343,6 +8356,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -7367,6 +8383,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -7390,6 +8409,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -7412,6 +8434,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -7437,6 +8462,10 @@ var pokedex = [
         "egg": [
             4,
             128
+        ],
+        "gen8egg": [
+            4,
+            128
         ]
     },
     {
@@ -7459,6 +8488,10 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            4,
+            128
+        ],
+        "gen8egg": [
             4,
             128
         ]
@@ -7486,6 +8519,10 @@ var pokedex = [
         "egg": [
             32,
             64
+        ],
+        "gen8egg": [
+            32,
+            64
         ]
     },
     {
@@ -7509,6 +8546,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -7531,6 +8571,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -7556,6 +8599,9 @@ var pokedex = [
         },
         "egg": [
             2048
+        ],
+        "gen8egg": [
+            2048
         ]
     },
     {
@@ -7580,6 +8626,9 @@ var pokedex = [
         },
         "egg": [
             2048
+        ],
+        "gen8egg": [
+            2048
         ]
     },
     {
@@ -7602,6 +8651,10 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            16,
+            2048
+        ],
+        "gen8egg": [
             16,
             2048
         ]
@@ -7628,6 +8681,10 @@ var pokedex = [
         "egg": [
             16,
             2048
+        ],
+        "gen8egg": [
+            16,
+            2048
         ]
     },
     {
@@ -7651,6 +8708,9 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -7676,6 +8736,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -7698,6 +8761,9 @@ var pokedex = [
             "Speed": 20
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -7722,6 +8788,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -7744,6 +8813,9 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -7769,6 +8841,10 @@ var pokedex = [
         "egg": [
             16,
             128
+        ],
+        "gen8egg": [
+            16,
+            128
         ]
     },
     {
@@ -7791,8 +8867,11 @@ var pokedex = [
             "Speed": 10
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4,
-            null
+            8192
         ]
     },
     {
@@ -7816,8 +8895,11 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4,
-            null
+            8192
         ]
     },
     {
@@ -7841,8 +8923,11 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4,
-            null
+            8192
         ]
     },
     {
@@ -7865,6 +8950,10 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            64,
+            128
+        ],
+        "gen8egg": [
             64,
             128
         ]
@@ -7892,6 +8981,10 @@ var pokedex = [
         "egg": [
             64,
             128
+        ],
+        "gen8egg": [
+            64,
+            128
         ]
     },
     {
@@ -7915,6 +9008,10 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            8,
+            8192
+        ],
+        "gen8egg": [
             8,
             8192
         ]
@@ -7942,6 +9039,10 @@ var pokedex = [
         "egg": [
             8,
             8192
+        ],
+        "gen8egg": [
+            8,
+            8192
         ]
     },
     {
@@ -7965,6 +9066,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -7987,6 +9091,10 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16,
+            8192
+        ],
+        "gen8egg": [
             16,
             8192
         ]
@@ -8013,6 +9121,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -8036,6 +9147,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -8061,6 +9175,9 @@ var pokedex = [
         },
         "egg": [
             2048
+        ],
+        "gen8egg": [
+            2048
         ]
     },
     {
@@ -8085,6 +9202,9 @@ var pokedex = [
         },
         "egg": [
             2048
+        ],
+        "gen8egg": [
+            2048
         ]
     },
     {
@@ -8107,6 +9227,10 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            2,
+            256
+        ],
+        "gen8egg": [
             2,
             256
         ]
@@ -8134,6 +9258,10 @@ var pokedex = [
         "egg": [
             2,
             256
+        ],
+        "gen8egg": [
+            2,
+            256
         ]
     },
     {
@@ -8157,6 +9285,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -8182,6 +9313,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -8205,6 +9339,9 @@ var pokedex = [
             "Speed": 23
         },
         "egg": [
+            256
+        ],
+        "gen8egg": [
             256
         ]
     },
@@ -8230,6 +9367,9 @@ var pokedex = [
         },
         "egg": [
             256
+        ],
+        "gen8egg": [
+            256
         ]
     },
     {
@@ -8253,6 +9393,9 @@ var pokedex = [
             "Speed": 75
         },
         "egg": [
+            256
+        ],
+        "gen8egg": [
             256
         ]
     },
@@ -8278,6 +9421,9 @@ var pokedex = [
         },
         "egg": [
             256
+        ],
+        "gen8egg": [
+            256
         ]
     },
     {
@@ -8300,6 +9446,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            2,
+            8192
+        ],
+        "gen8egg": [
             2,
             8192
         ]
@@ -8326,6 +9476,10 @@ var pokedex = [
         "egg": [
             2,
             8192
+        ],
+        "gen8egg": [
+            2,
+            8192
         ]
     },
     {
@@ -8348,6 +9502,10 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            32,
+            1024
+        ],
+        "gen8egg": [
             32,
             1024
         ]
@@ -8373,6 +9531,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -8395,6 +9556,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -8419,6 +9583,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -8442,6 +9609,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -8464,6 +9634,9 @@ var pokedex = [
             "Speed": 25
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -8490,6 +9663,10 @@ var pokedex = [
         "egg": [
             1,
             64
+        ],
+        "gen8egg": [
+            1,
+            64
         ]
     },
     {
@@ -8512,6 +9689,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -8536,6 +9716,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -8558,6 +9741,9 @@ var pokedex = [
             "Speed": 23
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -8583,6 +9769,10 @@ var pokedex = [
         "egg": [
             32,
             512
+        ],
+        "gen8egg": [
+            32,
+            512
         ]
     },
     {
@@ -8605,6 +9795,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            32,
+            512
+        ],
+        "gen8egg": [
             32,
             512
         ]
@@ -8632,6 +9826,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -8655,6 +9853,10 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -8682,6 +9884,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -8704,6 +9910,9 @@ var pokedex = [
             "Speed": 32
         },
         "egg": [
+            2
+        ],
+        "gen8egg": [
             2
         ]
     },
@@ -8728,6 +9937,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -8750,6 +9962,9 @@ var pokedex = [
             "Speed": 52
         },
         "egg": [
+            2
+        ],
+        "gen8egg": [
             2
         ]
     },
@@ -8776,6 +9991,10 @@ var pokedex = [
         "egg": [
             2,
             2048
+        ],
+        "gen8egg": [
+            2,
+            2048
         ]
     },
     {
@@ -8798,6 +10017,9 @@ var pokedex = [
             "Speed": 97
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -8822,6 +10044,9 @@ var pokedex = [
         },
         "egg": [
             8192
+        ],
+        "gen8egg": [
+            8192
         ]
     },
     {
@@ -8844,6 +10069,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            8192
+        ],
+        "gen8egg": [
             8192
         ]
     },
@@ -8869,6 +10097,9 @@ var pokedex = [
         },
         "egg": [
             8192
+        ],
+        "gen8egg": [
+            8192
         ]
     },
     {
@@ -8892,6 +10123,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -8917,6 +10151,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -8941,6 +10178,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -8963,6 +10203,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -8987,6 +10230,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -9009,6 +10255,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -9034,6 +10283,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -9058,6 +10310,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -9081,6 +10336,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -9103,6 +10361,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -9128,6 +10389,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -9152,6 +10416,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -9174,6 +10441,9 @@ var pokedex = [
             "Speed": 150
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -9199,6 +10469,10 @@ var pokedex = [
         "egg": [
             1,
             64
+        ],
+        "gen8egg": [
+            1,
+            64
         ]
     },
     {
@@ -9221,6 +10495,10 @@ var pokedex = [
             "Speed": 36
         },
         "egg": [
+            1,
+            64
+        ],
+        "gen8egg": [
             1,
             64
         ]
@@ -9248,6 +10526,10 @@ var pokedex = [
         "egg": [
             1,
             64
+        ],
+        "gen8egg": [
+            1,
+            64
         ]
     },
     {
@@ -9270,6 +10552,10 @@ var pokedex = [
             "Speed": 61
         },
         "egg": [
+            16,
+            128
+        ],
+        "gen8egg": [
             16,
             128
         ]
@@ -9297,6 +10583,10 @@ var pokedex = [
         "egg": [
             16,
             128
+        ],
+        "gen8egg": [
+            16,
+            128
         ]
     },
     {
@@ -9320,6 +10610,10 @@ var pokedex = [
             "Speed": 108
         },
         "egg": [
+            16,
+            128
+        ],
+        "gen8egg": [
             16,
             128
         ]
@@ -9346,6 +10640,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -9368,6 +10666,10 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -9395,6 +10697,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -9418,6 +10724,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -9443,6 +10752,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -9467,6 +10779,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -9489,6 +10804,10 @@ var pokedex = [
             "Speed": 31
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -9516,6 +10835,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -9538,6 +10861,9 @@ var pokedex = [
             "Speed": 25
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -9562,6 +10888,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -9584,6 +10913,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -9608,6 +10940,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -9630,6 +10965,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -9654,6 +10992,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -9680,6 +11021,10 @@ var pokedex = [
         "egg": [
             32,
             64
+        ],
+        "gen8egg": [
+            32,
+            64
         ]
     },
     {
@@ -9703,6 +11048,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -9725,6 +11073,9 @@ var pokedex = [
             "Speed": 58
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1
         ]
     },
@@ -9750,6 +11101,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -9774,6 +11128,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -9796,6 +11153,9 @@ var pokedex = [
             "Speed": 36
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -9821,6 +11181,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -9844,6 +11207,9 @@ var pokedex = [
             "Speed": 66
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -9869,6 +11235,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -9893,6 +11262,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -9915,6 +11287,10 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            16,
+            32
+        ],
+        "gen8egg": [
             16,
             32
         ]
@@ -9941,6 +11317,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -9963,6 +11343,10 @@ var pokedex = [
             "Speed": 115
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -9989,6 +11373,10 @@ var pokedex = [
         "egg": [
             32,
             64
+        ],
+        "gen8egg": [
+            32,
+            64
         ]
     },
     {
@@ -10013,6 +11401,10 @@ var pokedex = [
         "egg": [
             32,
             64
+        ],
+        "gen8egg": [
+            32,
+            64
         ]
     },
     {
@@ -10035,6 +11427,10 @@ var pokedex = [
             "Speed": 34
         },
         "egg": [
+            2,
+            1024
+        ],
+        "gen8egg": [
             2,
             1024
         ]
@@ -10062,6 +11458,10 @@ var pokedex = [
         "egg": [
             2,
             1024
+        ],
+        "gen8egg": [
+            2,
+            1024
         ]
     },
     {
@@ -10084,6 +11484,9 @@ var pokedex = [
             "Speed": 115
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -10109,6 +11512,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -10133,6 +11539,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -10155,6 +11564,10 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            16,
+            128
+        ],
+        "gen8egg": [
             16,
             128
         ]
@@ -10181,6 +11594,10 @@ var pokedex = [
         "egg": [
             16,
             128
+        ],
+        "gen8egg": [
+            16,
+            128
         ]
     },
     {
@@ -10203,6 +11620,9 @@ var pokedex = [
             "Speed": 105
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -10228,6 +11648,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -10250,6 +11673,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -10274,6 +11700,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -10296,6 +11725,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -10321,6 +11753,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -10344,6 +11779,9 @@ var pokedex = [
             "Speed": 84
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -10369,6 +11807,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -10393,6 +11834,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -10415,6 +11859,9 @@ var pokedex = [
             "Speed": 10
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -10440,6 +11887,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -10462,6 +11912,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -10487,6 +11940,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -10511,6 +11967,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -10534,6 +11993,10 @@ var pokedex = [
             "Speed": 42
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -10561,6 +12024,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -10586,6 +12053,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -10609,6 +12080,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -10631,6 +12105,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -10657,6 +12134,10 @@ var pokedex = [
         "egg": [
             16,
             128
+        ],
+        "gen8egg": [
+            16,
+            128
         ]
     },
     {
@@ -10679,6 +12160,9 @@ var pokedex = [
             "Speed": 32
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -10703,6 +12187,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -10726,6 +12213,10 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            4,
+            256
+        ],
+        "gen8egg": [
             4,
             256
         ]
@@ -10753,6 +12244,10 @@ var pokedex = [
         "egg": [
             4,
             256
+        ],
+        "gen8egg": [
+            4,
+            256
         ]
     },
     {
@@ -10776,6 +12271,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -10801,6 +12299,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -10823,6 +12324,9 @@ var pokedex = [
             "Speed": 46
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -10847,6 +12351,9 @@ var pokedex = [
         },
         "egg": [
             2048
+        ],
+        "gen8egg": [
+            2048
         ]
     },
     {
@@ -10869,6 +12376,9 @@ var pokedex = [
             "Speed": 91
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -10894,6 +12404,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -10917,6 +12430,10 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            1,
+            64
+        ],
+        "gen8egg": [
             1,
             64
         ]
@@ -10944,6 +12461,10 @@ var pokedex = [
         "egg": [
             1,
             64
+        ],
+        "gen8egg": [
+            1,
+            64
         ]
     },
     {
@@ -10967,6 +12488,9 @@ var pokedex = [
             "Speed": 125
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -10992,6 +12516,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -11014,6 +12541,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1
         ]
     },
@@ -11040,6 +12570,10 @@ var pokedex = [
         "egg": [
             1,
             16
+        ],
+        "gen8egg": [
+            1,
+            16
         ]
     },
     {
@@ -11062,6 +12596,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -11086,6 +12623,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -11108,6 +12648,9 @@ var pokedex = [
             "Speed": 83
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -11134,6 +12677,10 @@ var pokedex = [
         "egg": [
             8,
             32
+        ],
+        "gen8egg": [
+            8,
+            32
         ]
     },
     {
@@ -11158,6 +12705,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -11181,6 +12731,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -11203,6 +12756,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -11228,6 +12784,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -11252,6 +12811,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -11274,6 +12836,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -11298,7 +12863,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
-            null,
+            1024
+        ],
+        "gen8egg": [
+            128,
             1024
         ]
     },
@@ -11324,6 +12892,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -11346,6 +12917,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -11372,6 +12946,10 @@ var pokedex = [
         "egg": [
             32,
             512
+        ],
+        "gen8egg": [
+            32,
+            512
         ]
     },
     {
@@ -11396,6 +12974,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -11418,6 +12999,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -11442,6 +13026,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -11464,6 +13051,9 @@ var pokedex = [
             "Speed": 115
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -11489,6 +13079,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -11512,6 +13105,9 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -11537,6 +13133,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -11559,6 +13158,9 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -11584,6 +13186,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -11607,6 +13212,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -11629,6 +13237,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            2,
+            32
+        ],
+        "gen8egg": [
             2,
             32
         ]
@@ -11655,6 +13267,10 @@ var pokedex = [
         "egg": [
             2,
             32
+        ],
+        "gen8egg": [
+            2,
+            32
         ]
     },
     {
@@ -11677,6 +13293,9 @@ var pokedex = [
             "Speed": 125
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -11701,6 +13320,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -11723,6 +13345,9 @@ var pokedex = [
             "Speed": 120
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -11748,6 +13373,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -11770,6 +13398,10 @@ var pokedex = [
             "Speed": 63
         },
         "egg": [
+            16,
+            64
+        ],
+        "gen8egg": [
             16,
             64
         ]
@@ -11796,6 +13428,10 @@ var pokedex = [
         "egg": [
             16,
             64
+        ],
+        "gen8egg": [
+            16,
+            64
         ]
     },
     {
@@ -11818,6 +13454,10 @@ var pokedex = [
             "Speed": 113
         },
         "egg": [
+            16,
+            64
+        ],
+        "gen8egg": [
             16,
             64
         ]
@@ -11843,6 +13483,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -11866,6 +13509,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -11891,6 +13537,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -11913,6 +13562,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -11937,6 +13589,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -11959,6 +13614,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -11983,6 +13641,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12005,6 +13666,9 @@ var pokedex = [
             "Speed": 77
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12029,6 +13693,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12051,6 +13718,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12075,6 +13745,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12097,6 +13770,9 @@ var pokedex = [
             "Speed": 66
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12121,6 +13797,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12143,6 +13822,9 @@ var pokedex = [
             "Speed": 64
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12167,6 +13849,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12189,6 +13874,9 @@ var pokedex = [
             "Speed": 64
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12213,6 +13901,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12235,6 +13926,9 @@ var pokedex = [
             "Speed": 64
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12259,6 +13953,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12282,6 +13979,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12304,6 +14004,9 @@ var pokedex = [
             "Speed": 29
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12329,6 +14032,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -12352,6 +14058,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -12377,6 +14086,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -12399,6 +14111,9 @@ var pokedex = [
             "Speed": 76
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12423,6 +14138,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12445,6 +14163,9 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -12469,6 +14190,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -12491,6 +14215,9 @@ var pokedex = [
             "Speed": 25
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -12515,6 +14242,10 @@ var pokedex = [
             "Speed": 72
         },
         "egg": [
+            16,
+            8
+        ],
+        "gen8egg": [
             16,
             8
         ]
@@ -12542,6 +14273,10 @@ var pokedex = [
         "egg": [
             16,
             8
+        ],
+        "gen8egg": [
+            16,
+            8
         ]
     },
     {
@@ -12564,6 +14299,9 @@ var pokedex = [
             "Speed": 68
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -12589,6 +14327,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -12611,6 +14352,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -12635,6 +14379,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -12657,6 +14404,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -12681,6 +14431,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -12703,6 +14456,9 @@ var pokedex = [
             "Speed": 64
         },
         "egg": [
+            2
+        ],
+        "gen8egg": [
             2
         ]
     },
@@ -12728,6 +14484,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -12752,6 +14511,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -12775,6 +14537,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -12797,6 +14562,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -12822,6 +14590,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -12845,6 +14616,9 @@ var pokedex = [
             "Speed": 42
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -12870,6 +14644,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -12893,6 +14670,9 @@ var pokedex = [
             "Speed": 57
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -12918,6 +14698,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -12942,6 +14725,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -12965,6 +14751,10 @@ var pokedex = [
             "Speed": 66
         },
         "egg": [
+            64,
+            32
+        ],
+        "gen8egg": [
             64,
             32
         ]
@@ -12992,6 +14782,10 @@ var pokedex = [
         "egg": [
             64,
             32
+        ],
+        "gen8egg": [
+            64,
+            32
         ]
     },
     {
@@ -13014,6 +14808,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -13038,6 +14835,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -13060,6 +14860,9 @@ var pokedex = [
             "Speed": 98
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -13085,6 +14888,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -13108,6 +14914,9 @@ var pokedex = [
             "Speed": 74
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -13133,6 +14942,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -13155,6 +14967,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -13179,6 +14994,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -13201,6 +15019,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -13225,6 +15046,10 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            4,
+            512
+        ],
+        "gen8egg": [
             4,
             512
         ]
@@ -13252,6 +15077,10 @@ var pokedex = [
         "egg": [
             4,
             512
+        ],
+        "gen8egg": [
+            4,
+            512
         ]
     },
     {
@@ -13275,6 +15104,10 @@ var pokedex = [
             "Speed": 48
         },
         "egg": [
+            16,
+            8192
+        ],
+        "gen8egg": [
             16,
             8192
         ]
@@ -13302,6 +15135,10 @@ var pokedex = [
         "egg": [
             16,
             8192
+        ],
+        "gen8egg": [
+            16,
+            8192
         ]
     },
     {
@@ -13325,6 +15162,9 @@ var pokedex = [
             "Speed": 97
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -13350,6 +15190,10 @@ var pokedex = [
         "egg": [
             512,
             1024
+        ],
+        "gen8egg": [
+            512,
+            1024
         ]
     },
     {
@@ -13372,6 +15216,10 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            512,
+            1024
+        ],
+        "gen8egg": [
             512,
             1024
         ]
@@ -13399,6 +15247,10 @@ var pokedex = [
         "egg": [
             2,
             256
+        ],
+        "gen8egg": [
+            2,
+            256
         ]
     },
     {
@@ -13422,6 +15274,10 @@ var pokedex = [
             "Speed": 32
         },
         "egg": [
+            2,
+            256
+        ],
+        "gen8egg": [
             2,
             256
         ]
@@ -13449,6 +15305,10 @@ var pokedex = [
         "egg": [
             8,
             256
+        ],
+        "gen8egg": [
+            8,
+            256
         ]
     },
     {
@@ -13474,6 +15334,10 @@ var pokedex = [
         "egg": [
             8,
             256
+        ],
+        "gen8egg": [
+            8,
+            256
         ]
     },
     {
@@ -13496,6 +15360,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -13520,6 +15387,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -13542,6 +15412,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -13566,6 +15439,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -13588,6 +15464,9 @@ var pokedex = [
             "Speed": 75
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -13612,6 +15491,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -13634,6 +15516,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -13658,6 +15543,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -13680,6 +15568,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -13704,6 +15595,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -13726,6 +15620,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -13750,6 +15647,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -13773,6 +15673,10 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            2,
+            8
+        ],
+        "gen8egg": [
             2,
             8
         ]
@@ -13800,6 +15704,10 @@ var pokedex = [
         "egg": [
             2,
             8
+        ],
+        "gen8egg": [
+            2,
+            8
         ]
     },
     {
@@ -13822,6 +15730,9 @@ var pokedex = [
             "Speed": 44
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -13846,6 +15757,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -13868,6 +15782,9 @@ var pokedex = [
             "Speed": 79
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -13893,6 +15810,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -13916,6 +15836,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -13941,6 +15864,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -13963,6 +15889,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -13988,6 +15917,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -14011,6 +15943,9 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -14036,6 +15971,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -14059,6 +15997,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -14084,6 +16025,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -14106,6 +16050,10 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            2,
+            2048
+        ],
+        "gen8egg": [
             2,
             2048
         ]
@@ -14132,6 +16080,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -14156,6 +16107,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -14179,6 +16133,10 @@ var pokedex = [
             "Speed": 10
         },
         "egg": [
+            64,
+            512
+        ],
+        "gen8egg": [
             64,
             512
         ]
@@ -14206,6 +16164,10 @@ var pokedex = [
         "egg": [
             64,
             512
+        ],
+        "gen8egg": [
+            64,
+            512
         ]
     },
     {
@@ -14228,6 +16190,9 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -14252,6 +16217,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -14274,6 +16242,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -14298,6 +16269,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -14320,6 +16294,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -14344,6 +16321,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -14367,6 +16347,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -14389,6 +16372,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            128
+        ],
+        "gen8egg": [
             128
         ]
     },
@@ -14414,6 +16400,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -14437,6 +16426,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -14462,6 +16454,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -14484,6 +16479,10 @@ var pokedex = [
             "Speed": 57
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -14510,6 +16509,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -14532,6 +16535,10 @@ var pokedex = [
             "Speed": 97
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -14557,6 +16564,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -14579,6 +16589,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -14603,6 +16616,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -14626,6 +16642,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -14648,6 +16667,9 @@ var pokedex = [
             "Speed": 145
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -14674,6 +16696,10 @@ var pokedex = [
         "egg": [
             2,
             1024
+        ],
+        "gen8egg": [
+            2,
+            1024
         ]
     },
     {
@@ -14696,6 +16722,10 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16,
+            128
+        ],
+        "gen8egg": [
             16,
             128
         ]
@@ -14722,6 +16752,10 @@ var pokedex = [
         "egg": [
             16,
             128
+        ],
+        "gen8egg": [
+            16,
+            128
         ]
     },
     {
@@ -14744,6 +16778,10 @@ var pokedex = [
             "Speed": 48
         },
         "egg": [
+            8192,
+            1
+        ],
+        "gen8egg": [
             8192,
             1
         ]
@@ -14770,6 +16808,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -14793,6 +16834,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -14818,6 +16862,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -14842,6 +16889,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -14864,6 +16914,9 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -14889,6 +16942,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -14912,6 +16968,9 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -14937,6 +16996,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -14961,6 +17023,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -14983,6 +17048,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -15008,6 +17076,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -15031,6 +17102,9 @@ var pokedex = [
             "Speed": 38
         },
         "egg": [
+            8192
+        ],
+        "gen8egg": [
             8192
         ]
     },
@@ -15056,6 +17130,9 @@ var pokedex = [
         },
         "egg": [
             8192
+        ],
+        "gen8egg": [
+            8192
         ]
     },
     {
@@ -15079,6 +17156,9 @@ var pokedex = [
             "Speed": 98
         },
         "egg": [
+            8192
+        ],
+        "gen8egg": [
             8192
         ]
     },
@@ -15104,6 +17184,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -15127,6 +17210,9 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -15152,6 +17238,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -15175,6 +17264,9 @@ var pokedex = [
             "Speed": 108
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -15200,6 +17292,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -15222,6 +17317,9 @@ var pokedex = [
             "Speed": 111
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -15247,6 +17345,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -15270,6 +17371,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -15295,6 +17399,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -15318,6 +17425,9 @@ var pokedex = [
             "Speed": 101
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -15343,6 +17453,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -15366,6 +17479,9 @@ var pokedex = [
             "Speed": 108
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -15391,6 +17507,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -15415,6 +17534,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -15438,6 +17560,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -15460,6 +17585,9 @@ var pokedex = [
             "Speed": 57
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -15485,6 +17613,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -15508,6 +17639,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -15530,6 +17664,9 @@ var pokedex = [
             "Speed": 73
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -15555,6 +17692,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -15578,6 +17718,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -15600,6 +17743,9 @@ var pokedex = [
             "Speed": 97
         },
         "egg": [
+            2
+        ],
+        "gen8egg": [
             2
         ]
     },
@@ -15625,6 +17771,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -15647,6 +17796,9 @@ var pokedex = [
             "Speed": 57
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -15672,6 +17824,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -15695,6 +17850,9 @@ var pokedex = [
             "Speed": 62
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -15720,6 +17878,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -15744,6 +17905,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -15767,6 +17931,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -15789,6 +17956,9 @@ var pokedex = [
             "Speed": 29
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -15814,6 +17984,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -15837,6 +18010,9 @@ var pokedex = [
             "Speed": 72
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -15862,6 +18038,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -15884,6 +18063,9 @@ var pokedex = [
             "Speed": 42
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -15908,6 +18090,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -15930,6 +18115,9 @@ var pokedex = [
             "Speed": 75
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -15954,6 +18142,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -15977,6 +18168,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -15999,6 +18193,10 @@ var pokedex = [
             "Speed": 43
         },
         "egg": [
+            16,
+            128
+        ],
+        "gen8egg": [
             16,
             128
         ]
@@ -16026,6 +18224,10 @@ var pokedex = [
         "egg": [
             16,
             128
+        ],
+        "gen8egg": [
+            16,
+            128
         ]
     },
     {
@@ -16048,6 +18250,9 @@ var pokedex = [
             "Speed": 102
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -16072,6 +18277,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -16094,6 +18302,9 @@ var pokedex = [
             "Speed": 104
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -16119,6 +18330,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -16142,6 +18356,9 @@ var pokedex = [
             "Speed": 35
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -16167,6 +18384,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -16189,6 +18409,9 @@ var pokedex = [
             "Speed": 23
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -16213,6 +18436,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -16235,6 +18461,9 @@ var pokedex = [
             "Speed": 49
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -16259,6 +18488,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -16282,6 +18514,10 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            2,
+            2048
+        ],
+        "gen8egg": [
             2,
             2048
         ]
@@ -16309,6 +18545,10 @@ var pokedex = [
         "egg": [
             2,
             2048
+        ],
+        "gen8egg": [
+            2,
+            2048
         ]
     },
     {
@@ -16332,6 +18572,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            256
+        ],
+        "gen8egg": [
             256
         ]
     },
@@ -16357,6 +18600,9 @@ var pokedex = [
         },
         "egg": [
             256
+        ],
+        "gen8egg": [
+            256
         ]
     },
     {
@@ -16380,6 +18626,10 @@ var pokedex = [
             "Speed": 30
         },
         "egg": [
+            2,
+            8192
+        ],
+        "gen8egg": [
             2,
             8192
         ]
@@ -16407,6 +18657,10 @@ var pokedex = [
         "egg": [
             2,
             8192
+        ],
+        "gen8egg": [
+            2,
+            8192
         ]
     },
     {
@@ -16431,6 +18685,10 @@ var pokedex = [
         "egg": [
             2,
             256
+        ],
+        "gen8egg": [
+            2,
+            256
         ]
     },
     {
@@ -16453,6 +18711,10 @@ var pokedex = [
             "Speed": 59
         },
         "egg": [
+            2,
+            256
+        ],
+        "gen8egg": [
             2,
             256
         ]
@@ -16480,6 +18742,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -16503,6 +18769,10 @@ var pokedex = [
             "Speed": 109
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -16530,6 +18800,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -16553,6 +18827,10 @@ var pokedex = [
             "Speed": 71
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -16579,6 +18857,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -16603,6 +18884,9 @@ var pokedex = [
         },
         "egg": [
             1
+        ],
+        "gen8egg": [
+            1
         ]
     },
     {
@@ -16625,6 +18909,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -16649,7 +18936,10 @@ var pokedex = [
             "Speed": 118
         },
         "egg": [
-            null,
+            128
+        ],
+        "gen8egg": [
+            8,
             128
         ]
     },
@@ -16674,6 +18964,10 @@ var pokedex = [
             "Speed": 101
         },
         "egg": [
+            16,
+            32
+        ],
+        "gen8egg": [
             16,
             32
         ]
@@ -16701,6 +18995,10 @@ var pokedex = [
         "egg": [
             32,
             512
+        ],
+        "gen8egg": [
+            32,
+            512
         ]
     },
     {
@@ -16723,6 +19021,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            8192
+        ],
+        "gen8egg": [
             8192
         ]
     },
@@ -16747,6 +19048,9 @@ var pokedex = [
         },
         "egg": [
             8192
+        ],
+        "gen8egg": [
+            8192
         ]
     },
     {
@@ -16769,6 +19073,9 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            8192
+        ],
+        "gen8egg": [
             8192
         ]
     },
@@ -16794,6 +19101,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -16817,6 +19127,10 @@ var pokedex = [
             "Speed": 38
         },
         "egg": [
+            64,
+            1024
+        ],
+        "gen8egg": [
             64,
             1024
         ]
@@ -16844,6 +19158,10 @@ var pokedex = [
         "egg": [
             64,
             1024
+        ],
+        "gen8egg": [
+            64,
+            1024
         ]
     },
     {
@@ -16867,6 +19185,9 @@ var pokedex = [
             "Speed": 41
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -16892,6 +19213,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -16914,8 +19238,11 @@ var pokedex = [
             "Speed": 28
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1,
-            null
+            512
         ]
     },
     {
@@ -16938,8 +19265,11 @@ var pokedex = [
             "Speed": 28
         },
         "egg": [
+            1
+        ],
+        "gen8egg": [
             1,
-            null
+            512
         ]
     },
     {
@@ -16963,8 +19293,11 @@ var pokedex = [
             "Speed": 55
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8,
-            null
+            8192
         ]
     },
     {
@@ -16988,8 +19321,11 @@ var pokedex = [
             "Speed": 123
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8,
-            null
+            8192
         ]
     },
     {
@@ -17012,6 +19348,9 @@ var pokedex = [
             "Speed": 99
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -17037,6 +19376,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -17060,6 +19402,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -17085,6 +19430,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -17108,6 +19456,9 @@ var pokedex = [
             "Speed": 70
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -17133,6 +19484,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -17156,6 +19510,9 @@ var pokedex = [
             "Speed": 42
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -17181,6 +19538,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -17205,6 +19565,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -17228,6 +19591,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -17250,6 +19616,9 @@ var pokedex = [
             "Speed": 90
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -17275,6 +19644,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -17299,6 +19671,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -17321,6 +19697,10 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -17348,6 +19728,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -17371,6 +19755,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -17396,6 +19783,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -17420,6 +19810,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -17442,6 +19835,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -17466,6 +19862,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -17488,6 +19887,9 @@ var pokedex = [
             "Speed": 46
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -17513,6 +19915,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -17537,6 +19942,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -17559,6 +19967,9 @@ var pokedex = [
             "Speed": 63
         },
         "egg": [
+            256
+        ],
+        "gen8egg": [
             256
         ]
     },
@@ -17584,6 +19995,9 @@ var pokedex = [
         },
         "egg": [
             256
+        ],
+        "gen8egg": [
+            256
         ]
     },
     {
@@ -17608,6 +20022,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -17631,6 +20048,10 @@ var pokedex = [
             "Speed": 84
         },
         "egg": [
+            4,
+            32
+        ],
+        "gen8egg": [
             4,
             32
         ]
@@ -17658,6 +20079,10 @@ var pokedex = [
         "egg": [
             4,
             32
+        ],
+        "gen8egg": [
+            4,
+            32
         ]
     },
     {
@@ -17680,6 +20105,9 @@ var pokedex = [
             "Speed": 60
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -17704,6 +20132,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -17726,6 +20157,9 @@ var pokedex = [
             "Speed": 40
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -17751,6 +20185,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -17775,6 +20212,9 @@ var pokedex = [
         },
         "egg": [
             2
+        ],
+        "gen8egg": [
+            2
         ]
     },
     {
@@ -17797,6 +20237,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -17821,6 +20264,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -17844,6 +20290,10 @@ var pokedex = [
             "Speed": 27
         },
         "egg": [
+            2,
+            4
+        ],
+        "gen8egg": [
             2,
             4
         ]
@@ -17871,6 +20321,10 @@ var pokedex = [
         "egg": [
             2,
             4
+        ],
+        "gen8egg": [
+            2,
+            4
         ]
     },
     {
@@ -17894,6 +20348,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -17916,6 +20373,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -17941,6 +20401,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -17965,6 +20428,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -17988,6 +20454,10 @@ var pokedex = [
             "Speed": 77
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -18015,6 +20485,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -18038,6 +20512,9 @@ var pokedex = [
             "Speed": 50
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -18063,6 +20540,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -18085,6 +20565,9 @@ var pokedex = [
             "Speed": 32
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -18109,6 +20592,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -18132,6 +20618,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -18154,6 +20643,9 @@ var pokedex = [
             "Speed": 100
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -18179,6 +20671,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -18201,6 +20696,9 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -18225,6 +20723,10 @@ var pokedex = [
             "Speed": 80
         },
         "egg": [
+            4,
+            256
+        ],
+        "gen8egg": [
             4,
             256
         ]
@@ -18252,6 +20754,10 @@ var pokedex = [
         "egg": [
             4,
             256
+        ],
+        "gen8egg": [
+            4,
+            256
         ]
     },
     {
@@ -18275,6 +20781,9 @@ var pokedex = [
             "Speed": 15
         },
         "egg": [
+            1024
+        ],
+        "gen8egg": [
             1024
         ]
     },
@@ -18300,6 +20809,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -18322,6 +20834,9 @@ var pokedex = [
             "Speed": 5
         },
         "egg": [
+            2
+        ],
+        "gen8egg": [
             2
         ]
     },
@@ -18346,6 +20861,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18368,6 +20886,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -18393,6 +20914,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -18415,6 +20939,9 @@ var pokedex = [
             "Speed": 65
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -18439,6 +20966,10 @@ var pokedex = [
             "Speed": 36
         },
         "egg": [
+            1,
+            8192
+        ],
+        "gen8egg": [
             1,
             8192
         ]
@@ -18466,6 +20997,10 @@ var pokedex = [
         "egg": [
             16,
             32
+        ],
+        "gen8egg": [
+            16,
+            32
         ]
     },
     {
@@ -18490,6 +21025,9 @@ var pokedex = [
         },
         "egg": [
             1024
+        ],
+        "gen8egg": [
+            1024
         ]
     },
     {
@@ -18513,6 +21051,9 @@ var pokedex = [
             "Speed": 92
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -18539,6 +21080,10 @@ var pokedex = [
         "egg": [
             1,
             8192
+        ],
+        "gen8egg": [
+            1,
+            8192
         ]
     },
     {
@@ -18563,6 +21108,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -18585,6 +21133,9 @@ var pokedex = [
             "Speed": 45
         },
         "egg": [
+            8192
+        ],
+        "gen8egg": [
             8192
         ]
     },
@@ -18610,6 +21161,9 @@ var pokedex = [
         },
         "egg": [
             8192
+        ],
+        "gen8egg": [
+            8192
         ]
     },
     {
@@ -18633,6 +21187,9 @@ var pokedex = [
             "Speed": 85
         },
         "egg": [
+            8192
+        ],
+        "gen8egg": [
             8192
         ]
     },
@@ -18658,6 +21215,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18681,6 +21241,9 @@ var pokedex = [
             "Speed": 95
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -18706,6 +21269,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18730,6 +21296,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18753,6 +21322,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18775,6 +21347,9 @@ var pokedex = [
             "Speed": 37
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -18800,6 +21375,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18823,6 +21401,9 @@ var pokedex = [
             "Speed": 97
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -18848,6 +21429,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18871,6 +21455,9 @@ var pokedex = [
             "Speed": 79
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -18896,6 +21483,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18918,6 +21508,9 @@ var pokedex = [
             "Speed": 83
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -18943,6 +21536,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -18966,6 +21562,9 @@ var pokedex = [
             "Speed": 109
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -18991,6 +21590,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -19013,6 +21615,9 @@ var pokedex = [
             "Speed": 79
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -19038,6 +21643,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -19062,6 +21670,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -19084,6 +21695,9 @@ var pokedex = [
             "Speed": 73
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -19109,6 +21723,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -19132,6 +21749,9 @@ var pokedex = [
             "Speed": 13
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -19157,6 +21777,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -19179,6 +21802,9 @@ var pokedex = [
             "Speed": 143
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -19203,6 +21829,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -19226,6 +21855,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -19246,6 +21878,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16,
+            64
+        ],
+        "gen8egg": [
             16,
             64
         ]
@@ -19270,6 +21906,10 @@ var pokedex = [
         "egg": [
             16,
             64
+        ],
+        "gen8egg": [
+            16,
+            64
         ]
     },
     {
@@ -19290,6 +21930,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16,
+            64
+        ],
+        "gen8egg": [
             16,
             64
         ]
@@ -19314,6 +21958,10 @@ var pokedex = [
         "egg": [
             16,
             128
+        ],
+        "gen8egg": [
+            16,
+            128
         ]
     },
     {
@@ -19334,6 +21982,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16,
+            128
+        ],
+        "gen8egg": [
             16,
             128
         ]
@@ -19358,6 +22010,10 @@ var pokedex = [
         "egg": [
             16,
             128
+        ],
+        "gen8egg": [
+            16,
+            128
         ]
     },
     {
@@ -19378,6 +22034,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -19402,6 +22062,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -19422,6 +22086,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            2,
+            16
+        ],
+        "gen8egg": [
             2,
             16
         ]
@@ -19445,6 +22113,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -19465,6 +22136,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -19487,6 +22161,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -19507,6 +22184,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            8
+        ],
+        "gen8egg": [
             8
         ]
     },
@@ -19529,6 +22209,9 @@ var pokedex = [
         },
         "egg": [
             8
+        ],
+        "gen8egg": [
+            8
         ]
     },
     {
@@ -19549,6 +22232,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -19571,6 +22257,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -19591,6 +22280,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -19613,6 +22305,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -19633,6 +22328,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -19655,6 +22353,9 @@ var pokedex = [
         },
         "egg": [
             64
+        ],
+        "gen8egg": [
+            64
         ]
     },
     {
@@ -19675,6 +22376,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            64
+        ],
+        "gen8egg": [
             64
         ]
     },
@@ -19697,6 +22401,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -19718,6 +22425,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -19738,6 +22448,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            1,
+            2
+        ],
+        "gen8egg": [
             1,
             2
         ]
@@ -19762,6 +22476,10 @@ var pokedex = [
         "egg": [
             1,
             2
+        ],
+        "gen8egg": [
+            1,
+            2
         ]
     },
     {
@@ -19782,6 +22500,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16
+        ],
+        "gen8egg": [
             16
         ]
     },
@@ -19804,6 +22525,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -19824,6 +22548,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -19846,6 +22573,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -19867,6 +22597,9 @@ var pokedex = [
         },
         "egg": [
             512
+        ],
+        "gen8egg": [
+            512
         ]
     },
     {
@@ -19887,6 +22620,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            64,
+            8192
+        ],
+        "gen8egg": [
             64,
             8192
         ]
@@ -19911,6 +22648,10 @@ var pokedex = [
         "egg": [
             64,
             8192
+        ],
+        "gen8egg": [
+            64,
+            8192
         ]
     },
     {
@@ -19931,6 +22672,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            64,
+            8192
+        ],
+        "gen8egg": [
             64,
             8192
         ]
@@ -19955,6 +22700,10 @@ var pokedex = [
         "egg": [
             16,
             8192
+        ],
+        "gen8egg": [
+            16,
+            8192
         ]
     },
     {
@@ -19975,6 +22724,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16,
+            8192
+        ],
+        "gen8egg": [
             16,
             8192
         ]
@@ -19999,6 +22752,10 @@ var pokedex = [
         "egg": [
             2,
             8
+        ],
+        "gen8egg": [
+            2,
+            8
         ]
     },
     {
@@ -20019,6 +22776,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            2048
+        ],
+        "gen8egg": [
             2048
         ]
     },
@@ -20041,6 +22801,9 @@ var pokedex = [
         },
         "egg": [
             2048
+        ],
+        "gen8egg": [
+            2048
         ]
     },
     {
@@ -20061,6 +22824,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -20083,6 +22849,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -20103,6 +22872,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            4
+        ],
+        "gen8egg": [
             4
         ]
     },
@@ -20125,6 +22897,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -20145,6 +22920,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            2,
+            128
+        ],
+        "gen8egg": [
             2,
             128
         ]
@@ -20169,6 +22948,10 @@ var pokedex = [
         "egg": [
             2,
             128
+        ],
+        "gen8egg": [
+            2,
+            128
         ]
     },
     {
@@ -20189,6 +22972,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            512,
+            1024
+        ],
+        "gen8egg": [
             512,
             1024
         ]
@@ -20213,6 +23000,10 @@ var pokedex = [
         "egg": [
             512,
             1024
+        ],
+        "gen8egg": [
+            512,
+            1024
         ]
     },
     {
@@ -20233,6 +23024,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            32
+        ],
+        "gen8egg": [
             32
         ]
     },
@@ -20255,6 +23049,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -20276,6 +23073,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -20296,6 +23096,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            32,
+            128
+        ],
+        "gen8egg": [
             32,
             128
         ]
@@ -20320,6 +23124,10 @@ var pokedex = [
         "egg": [
             32,
             128
+        ],
+        "gen8egg": [
+            32,
+            128
         ]
     },
     {
@@ -20340,6 +23148,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            32,
+            128
+        ],
+        "gen8egg": [
             32,
             128
         ]
@@ -20363,6 +23175,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -20384,6 +23199,9 @@ var pokedex = [
         },
         "egg": [
             16
+        ],
+        "gen8egg": [
+            16
         ]
     },
     {
@@ -20404,6 +23222,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            2,
+            256
+        ],
+        "gen8egg": [
             2,
             256
         ]
@@ -20428,6 +23250,10 @@ var pokedex = [
         "egg": [
             8,
             16
+        ],
+        "gen8egg": [
+            8,
+            16
         ]
     },
     {
@@ -20449,6 +23275,9 @@ var pokedex = [
         },
         "egg": [
             128
+        ],
+        "gen8egg": [
+            128
         ]
     },
     {
@@ -20469,6 +23298,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            512,
+            1024
+        ],
+        "gen8egg": [
             512,
             1024
         ]
@@ -20493,6 +23326,10 @@ var pokedex = [
         "egg": [
             32,
             1024
+        ],
+        "gen8egg": [
+            32,
+            1024
         ]
     },
     {
@@ -20513,6 +23350,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            32,
+            1024
+        ],
+        "gen8egg": [
             32,
             1024
         ]
@@ -20537,6 +23378,10 @@ var pokedex = [
         "egg": [
             32,
             512
+        ],
+        "gen8egg": [
+            32,
+            512
         ]
     },
     {
@@ -20557,6 +23402,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            2,
+            1024
+        ],
+        "gen8egg": [
             2,
             1024
         ]
@@ -20580,6 +23429,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -20601,6 +23453,9 @@ var pokedex = [
         },
         "egg": [
             4
+        ],
+        "gen8egg": [
+            4
         ]
     },
     {
@@ -20621,6 +23476,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            512
+        ],
+        "gen8egg": [
             512
         ]
     },
@@ -20644,6 +23502,10 @@ var pokedex = [
         "egg": [
             2,
             16
+        ],
+        "gen8egg": [
+            2,
+            16
         ]
     },
     {
@@ -20665,6 +23527,9 @@ var pokedex = [
         },
         "egg": [
             32
+        ],
+        "gen8egg": [
+            32
         ]
     },
     {
@@ -20685,6 +23550,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16,
+            32
+        ],
+        "gen8egg": [
             16,
             32
         ]
@@ -20709,6 +23578,10 @@ var pokedex = [
         "egg": [
             16,
             512
+        ],
+        "gen8egg": [
+            16,
+            512
         ]
     },
     {
@@ -20729,6 +23602,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            16,
+            512
+        ],
+        "gen8egg": [
             16,
             512
         ]
@@ -20752,6 +23629,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -20772,6 +23652,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -20794,6 +23677,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -20815,6 +23701,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -20835,6 +23724,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            512,
+            8192
+        ],
+        "gen8egg": [
             512,
             8192
         ]
@@ -20859,6 +23752,10 @@ var pokedex = [
         "egg": [
             1024,
             8192
+        ],
+        "gen8egg": [
+            1024,
+            8192
         ]
     },
     {
@@ -20879,6 +23776,10 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            1024,
+            8192
+        ],
+        "gen8egg": [
             1024,
             8192
         ]
@@ -20903,6 +23804,10 @@ var pokedex = [
         "egg": [
             1024,
             8192
+        ],
+        "gen8egg": [
+            1024,
+            8192
         ]
     },
     {
@@ -20923,6 +23828,9 @@ var pokedex = [
             "Speed": 0
         },
         "egg": [
+            0
+        ],
+        "gen8egg": [
             0
         ]
     },
@@ -20945,6 +23853,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     },
     {
@@ -20966,6 +23877,9 @@ var pokedex = [
         },
         "egg": [
             0
+        ],
+        "gen8egg": [
+            0
         ]
     }
-]
+];

@@ -17,20 +17,22 @@
 	<script type="text/javascript">
 		var pokemonSelect = null;
 		var pokemonResults = null;
+		var useGen8EggsCheckbox = null;
 		var pokeSelect = null;
 
 		function initialize() {
 			pokemonSelect = document.getElementById("pokemon-select");
 			pokemonResults = document.getElementById("pokemon-results");
+			useGen8EggsCheckbox = document.getElementById("use-gen8-eggs");
 
-			pokeSelect = new PokeSelect(pokemonSelect, pokemonResults);
+			pokeSelect = new PokeSelect(pokemonSelect, pokemonResults, useGen8EggsCheckbox);
 		}
 
 		document.addEventListener("DOMContentLoaded", initialize);
 	</script>
 </head>
 <body>
-	<label style="text-align: center;">
+	<label id="header">
 		<h2>PokéEggs</h2>
 		Selecting a Pokémon will populate a list of all other Pokémon with which it can create eggs. The information is based entirely on egg grouping and may or may not be accurate.
 	</label>
@@ -38,6 +40,8 @@
 	<label>Select a Pokémon.</label>
 	<br>
 	<select id="pokemon-select"></select>
+	<br>
+	<label><input id="use-gen8-eggs" type="checkbox" checked />&nbspUse Generation 8 Egg Groups</label>
 	<br><br><hr><br>
 	<div id="pokemon-results"></div>
 	<br><hr>

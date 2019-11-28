@@ -38,11 +38,17 @@ class PokeSelect {
 	selectElement = null;
 	resultsElements = null;
 
-	constructor(selectElement, resultsElements) {
+	useGen8EggsCheckbox = null;
+
+	constructor(selectElement, resultsElements, useGen8EggsCheckbox) {
 		this.selectElement = selectElement;
-		this.selectElement.creator = this;
+		this.selectElement.parent = this;
 
 		this.resultsElements = resultsElements;
+		this.resultsElements.parent = this;
+
+		this.useGen8EggsCheckbox = useGen8EggsCheckbox;
+		this.useGen8EggsCheckbox.parent = this;
 
 		for (let i = 0; i < pokedex.length; i++) {
 			let opt = document.createElement("option");
@@ -52,37 +58,49 @@ class PokeSelect {
 		}
 
 		this.selectElement.selectedIndex = -1;
-		this.selectElement.addEventListener("change", this.selectionChanged);
+		this.selectElement.addEventListener("change", function(e) { e.target.parent.selectionChanged(e.target); });
+
+		this.useGen8EggsCheckbox.addEventListener("change", function(e) { e.target.parent.useGen8EggsChanged(e.target); });
+	}
+
+	useGen8EggsChanged(e) {
+		e.parent.selectionChanged(e.parent.selectElement);
 	}
 
 	selectionChanged(e) {
-		e.target.creator.resultsElements.innerHTML = "";
+		if (e.options[e.selectedIndex] === undefined || e.options[e.selectedIndex] === null) {
+			return;
+		}
 
-		let entry = e.target.options[e.target.selectedIndex].dexEntry;
+		e.parent.resultsElements.innerHTML = "";
+
+		let entry = e.options[e.selectedIndex].dexEntry;
 		if (entry.egg[0] === EggGroup.Undiscovered) {
 			// this pokemon cannot breed
 			return;
 		}
 
 		let compat = [];
+		let eggMember = e.parent.useGen8EggsCheckbox.checked ? "gen8egg" : "egg";
+
 		for (let i = 0; i < pokedex.length; i++) {
 			// special cases for ditto
-			if (entry.egg[0] !== EggGroup.Ditto && pokedex[i].egg[0] === EggGroup.Ditto) {
+			if (entry[eggMember][0] !== EggGroup.Ditto && pokedex[i][eggMember][0] === EggGroup.Ditto) {
 				// any non-undiscovered pokemon can breed with ditto
 				compat.push(pokedex[i]);
 				continue;
 			}
 
-			if (entry.egg[0] === EggGroup.Ditto && pokedex[i].egg[0] !== EggGroup.Undiscovered) {
+			if (entry[eggMember][0] === EggGroup.Ditto && pokedex[i][eggMember][0] !== EggGroup.Undiscovered) {
 				// ditto can breed with any non-undiscovered pokemon
 				compat.push(pokedex[i]);
 				continue;
 			}
 
 			let foundMatch = false;
-			for (let j = 0; j < entry.egg.length; j++) {
-				for (let k = 0; k < pokedex[i].egg.length; k++) {
-					if (entry.egg[j] === pokedex[i].egg[k]) {
+			for (let j = 0; j < entry[eggMember].length; j++) {
+				for (let k = 0; k < pokedex[i][eggMember].length; k++) {
+					if (entry[eggMember][j] === pokedex[i][eggMember][k]) {
 						compat.push(pokedex[i]);
 						foundMatch = true;
 						break;
@@ -99,6 +117,6 @@ class PokeSelect {
 		for (let i = 0; i < compat.length; i++) {
 			textBuffer += "<div class=\"result-entry\">" + compat[i]["name"]["english"] + "</div>";
 		}
-		e.target.creator.resultsElements.innerHTML = textBuffer;
+		e.parent.resultsElements.innerHTML = textBuffer;
 	}
 }
