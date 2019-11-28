@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Pokémon tool to find compatible Pokémon for creating eggs.">
+	<meta name="keywords" content="Pokémon,breeding,egg,Sword,Shield,Let's Go,Pikachu,Eevee,Ultra,Sun,Moon,X,Y,Omega,Ruby,Sapphire,X,Y,Black 2, White 2,Black,White,HeartGold,SoulSilver,Platinum,Diamond,Pearl,Emerald,FireRed,LeafGreen,Crystal,Gold,Silver,Yellow,Red,Blue,compatiblity">
+	<meta name="author" content="ssjtroly">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>PokéEggs</title>
+
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
+
+	<script type="text/javascript" src="data/pokedex.js"></script>
+	<script type="text/javascript" src="js/pokedata.js"></script>
+
+	<script type="text/javascript">
+		var pokemonSelect = null;
+		var pokemonResults = null;
+		var pokeSelect = null;
+
+		function initialize() {
+			pokemonSelect = document.getElementById("pokemon-select");
+			pokemonResults = document.getElementById("pokemon-results");
+
+			pokeSelect = new PokeSelect(pokemonSelect, pokemonResults);
+		}
+
+		document.addEventListener("DOMContentLoaded", initialize);
+	</script>
+</head>
+<body>
+	<label style="text-align: center;">
+		<h2>PokéEggs</h2>
+		Selecting a Pokémon will populate a list of all other Pokémon with which it can create eggs. The information is based entirely on egg grouping and may or may not be accurate.
+	</label>
+	<br><br><hr><br>
+	<label>Select a Pokémon.</label>
+	<br>
+	<select id="pokemon-select"></select>
+	<br><br><hr><br>
+	<div id="pokemon-results"></div>
+	<br><hr>
+	Thanks goes to fanzeyi for <a href src="https://github.com/fanzeyi/pokemon.json">pokemon.json</a>.
+</body>
+</html>
