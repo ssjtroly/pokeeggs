@@ -68,11 +68,11 @@ class PokeSelect {
 	}
 
 	selectionChanged(e) {
+		e.parent.resultsElements.innerHTML = "";
+		
 		if (e.options[e.selectedIndex] === undefined || e.options[e.selectedIndex] === null) {
 			return;
 		}
-
-		e.parent.resultsElements.innerHTML = "";
 
 		let entry = e.options[e.selectedIndex].dexEntry;
 		if (entry.egg[0] === EggGroup.Undiscovered) {
