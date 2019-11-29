@@ -34,6 +34,24 @@ var EggGroup = {
 	_31: 			1 << 31,
 };
 
+var EggGroupColor = {
+	Undiscovered: "#000000",
+	Monster: "#d25064",
+	Water1: "#97b5fd",
+	Bug: "#a8b820",
+	Flying: "#a890f0",
+	Field: "#e0c068",
+	Fairy: "#ee99ac",
+	Grass: "#78c850",
+	HumanLike: "#d29682",
+	Water3: "#5876be",
+	Mineral: "#7a6252",
+	Amorphous: "#8a8a8a",
+	Water2: "#729afa",
+	Ditto: "#a664bf",
+	Dragon: "#7038f8",
+};
+
 class PokeSelect {
 	selectElement = null;
 	resultsElements = null;
@@ -67,9 +85,20 @@ class PokeSelect {
 		e.parent.selectionChanged(e.parent.selectElement);
 	}
 
+	resultClicked(e) {
+		//console.log(e.resultName);
+		for (let i = 0; i < e.parent.selectElement.options.length; i++) {
+			if (e.parent.selectElement.options[i].value === e.resultName) {
+				e.parent.selectElement.value = e.resultName;
+				e.parent.selectionChanged(e.parent.selectElement);
+				break;
+			}
+		}
+	}
+
 	selectionChanged(e) {
 		e.parent.resultsElements.innerHTML = "";
-		
+
 		if (e.options[e.selectedIndex] === undefined || e.options[e.selectedIndex] === null) {
 			return;
 		}
@@ -113,10 +142,130 @@ class PokeSelect {
 			}
 		}
 
-		let textBuffer = "";
 		for (let i = 0; i < compat.length; i++) {
-			textBuffer += "<div class=\"result-entry\">" + compat[i]["name"]["english"] + "</div>";
+			let eggGroupCount = compat[i][eggMember].length;
+			let w = (1.0/eggGroupCount)*100.0;
+			let grad = ""
+
+			let isFirst = true;
+			for (let j = 0; j < eggGroupCount; j++) {
+				if (isFirst) {
+					if (compat[i][eggMember][j] === EggGroup.Monster) {
+						grad += EggGroupColor.Monster + "," + EggGroupColor.Monster + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Water1) {
+						grad += EggGroupColor.Water1 + "," + EggGroupColor.Water1 + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Bug) {
+						grad += EggGroupColor.Bug + "," + EggGroupColor.Bug + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Flying) {
+						grad += EggGroupColor.Flying + "," + EggGroupColor.Flying + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Field) {
+						grad += EggGroupColor.Field + "," + EggGroupColor.Field + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Fairy) {
+						grad += EggGroupColor.Fairy + "," + EggGroupColor.Fairy + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Grass) {
+						grad += EggGroupColor.Grass + "," + EggGroupColor.Grass + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.HumanLike) {
+						grad += EggGroupColor.HumanLike + "," + EggGroupColor.HumanLike + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Water3) {
+						grad += EggGroupColor.Water3 + "," + EggGroupColor.Water3 + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Mineral) {
+						grad += EggGroupColor.Mineral + "," + EggGroupColor.Mineral + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Amorphous) {
+						grad += EggGroupColor.Amorphous + "," + EggGroupColor.Amorphous + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Water2) {
+						grad += EggGroupColor.Water2 + "," + EggGroupColor.Water2 + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Ditto) {
+						grad += EggGroupColor.Ditto + "," + EggGroupColor.Ditto + " " + w.toString() + "%";
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Dragon) {
+						grad += EggGroupColor.Dragon + "," + EggGroupColor.Dragon + " " + w.toString() + "%";
+					} else {
+						grad += EggGroupColor.Undiscovered + "," + EggGroupColor.Undiscovered + " " + w.toString() + "%";
+					}
+
+					isFirst = false;
+				}
+				else {
+					if (compat[i][eggMember][j] === EggGroup.Monster) {
+						grad += EggGroupColor.Monster + " " + w.toString() + "%, " + EggGroupColor.Monster;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Water1) {
+						grad += EggGroupColor.Water1 + " " + w.toString() + "%, " + EggGroupColor.Water1;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Bug) {
+						grad += EggGroupColor.Bug + " " + w.toString() + "%, " + EggGroupColor.Bug;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Flying) {
+						grad += EggGroupColor.Flying + " " + w.toString() + "%, " + EggGroupColor.Flying;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Field) {
+						grad += EggGroupColor.Field + " " + w.toString() + "%, " + EggGroupColor.Field;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Fairy) {
+						grad += EggGroupColor.Fairy + " " + w.toString() + "%, " + EggGroupColor.Fairy;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Grass) {
+						grad += EggGroupColor.Grass + " " + w.toString() + "%, " + EggGroupColor.Grass;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.HumanLike) {
+						grad += EggGroupColor.HumanLike + " " + w.toString() + "%, " + EggGroupColor.HumanLike;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Water3) {
+						grad += EggGroupColor.Water3 + " " + w.toString() + "%, " + EggGroupColor.Water3;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Mineral) {
+						grad += EggGroupColor.Mineral + " " + w.toString() + "%, " + EggGroupColor.Mineral;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Amorphous) {
+						grad += EggGroupColor.Amorphous + " " + w.toString() + "%, " + EggGroupColor.Amorphous;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Water2) {
+						grad += EggGroupColor.Water2 + " " + w.toString() + "%, " + EggGroupColor.Water2;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Ditto) {
+						grad += EggGroupColor.Ditto + " " + w.toString() + "%, " + EggGroupColor.Ditto;
+					}
+					else if (compat[i][eggMember][j] === EggGroup.Dragon) {
+						grad += EggGroupColor.Dragon + " " + w.toString() + "%, " + EggGroupColor.Dragon;
+					} else {
+						grad += EggGroupColor.Undiscovered + " " + w.toString() + "%, " + EggGroupColor.Undiscovered;
+					}
+				}
+
+				if (j < eggGroupCount-1) {
+					grad += ", ";
+				}
+			}
+
+			let bgImage = "background-image: linear-gradient(to right, " + grad + ");"
+
+			let resultEntry = document.createElement("div");
+			resultEntry.parent = this;
+			resultEntry.resultName = compat[i]["name"]["english"];
+			resultEntry.className = "result-entry";
+			resultEntry.style = bgImage;
+			resultEntry.addEventListener("click", function(e) { e.target.parent.resultClicked(e.target); });
+
+			let resultEntryText = document.createElement("label");
+			resultEntryText.parent = this;
+			resultEntryText.resultName = resultEntry.resultName;
+			resultEntryText.className = "result-entry-text";
+			resultEntryText.innerHTML = resultEntry.resultName;
+
+			resultEntry.appendChild(resultEntryText);
+			e.parent.resultsElements.appendChild(resultEntry);
 		}
-		e.parent.resultsElements.innerHTML = textBuffer;
 	}
 }
