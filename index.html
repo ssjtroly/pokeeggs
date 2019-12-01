@@ -11,21 +11,20 @@
 
 	<link rel="stylesheet" type="text/css" href="css/index.css" />
 
-	<script type="text/javascript" src="data/pokedex.js"></script>
+	<script type="text/javascript" src="data/pokedex-min.js"></script>
 	<script type="text/javascript" src="js/pokedata.js"></script>
 
 	<script type="text/javascript">
-		var pokemonSelect = null;
-		var pokemonResults = null;
-		var useGen8EggsCheckbox = null;
 		var pokeSelect = null;
 
 		function initialize() {
-			pokemonSelect = document.getElementById("pokemon-select");
-			pokemonResults = document.getElementById("pokemon-results");
-			useGen8EggsCheckbox = document.getElementById("use-gen8-eggs");
-
-			pokeSelect = new PokeSelect(pokemonSelect, pokemonResults, useGen8EggsCheckbox);
+			pokeSelect = new PokeSelect(
+				document.getElementById("pokemon-select"), 
+				document.getElementById("pokemon-results"), 
+				document.getElementById("use-gen8-eggs"),
+				document.getElementById("pokemon-results-filter-name"),
+				document.getElementById("pokemon-results-filter-egg-group")
+			);
 		}
 
 		document.addEventListener("DOMContentLoaded", initialize);
@@ -43,6 +42,15 @@
 	<br>
 	<label><input id="use-gen8-eggs" type="checkbox" checked />&nbspUse Generation 8 Egg Groups</label>
 	<br><br><hr><br>
+	<fieldset>
+		<legend>Filter</legend>
+		<label>Name:&nbsp</label>
+		<input id="pokemon-results-filter-name" type="text" disabled />
+		<br>
+		<label>Egg Group:&nbsp</label>
+		<select id="pokemon-results-filter-egg-group" disabled></select>
+	</fieldset>
+	<br>
 	<div id="pokemon-results"></div>
 	<br><hr>
 	Thanks goes to fanzeyi for <a href="https://github.com/fanzeyi/pokemon.json">pokemon.json</a>.

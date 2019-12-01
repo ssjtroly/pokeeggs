@@ -17,6 +17,11 @@ body
 	width: 100%;
 }
 
+#pokemon-results-filter-name,
+#pokemon-results-filter-egg-group {
+	width: 100%;
+}
+
 #pokemon-results {
 	display: flex;
 	flex-wrap: wrap;
